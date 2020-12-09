@@ -7,3 +7,4 @@ class test {
       console.log("Je teste ma modification");
       );
     };
+};
